@@ -1,0 +1,7 @@
+{
+  "name": "Medicinebox",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
